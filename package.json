@@ -1,0 +1,27 @@
+{
+  "name": "eris-message-collector",
+  "version": "1.0.0",
+  "description": "Allows you to use a message collector with the Eris Discord library",
+  "main": "src/Collector.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodyFromDiscord/eris-message-collector.git"
+  },
+  "keywords": [
+    "eris",
+    "message-collector",
+    "collector"
+  ],
+  "author": "gody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GodyFromDiscord/eris-message-collector/issues"
+  },
+  "homepage": "https://github.com/GodyFromDiscord/eris-message-collector#readme",
+  "dependencies": {
+    "eris": "^0.15.1"
+  }
+}
