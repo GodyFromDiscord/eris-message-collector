@@ -30,7 +30,7 @@ class Main extends Emitter {
     this._timeouts.delete(timeout);
   }
 
-  handleDispose(...args){
+  messageDispose(...args){
     if(!this.options.dispose) return;
     const dispose = this.dispose(...args);
     if(!dispose || !this.filter(...args) || !this.collected.has(dispose)) return;
@@ -39,7 +39,7 @@ class Main extends Emitter {
     this.checkEnd();
   }
 
-  handleCollect(...args){
+  messageCollect(...args){
     const collect = this.collect(...args);
 
     if(collect && this.filter(...args, this.collected)){
