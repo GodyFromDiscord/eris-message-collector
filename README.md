@@ -42,7 +42,7 @@ client.connect()
 ```
 
 ## Contact me for help!
-![Discord](https://img.shields.io/badge/-Discord%20Server-23272A?logo=discord)
+[Discord](https://discord.gg/3BhFJx2RZY)
 
 ## License
 Refer to the [License](https://github.com/GodyFromDiscord/eris-message-collector/blob/main/LICENSE) file.
