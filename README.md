@@ -1,7 +1,7 @@
 # eris-message-collector | ![npm](https://img.shields.io/npm/v/eris-message-collector?style=for-the-badge)
 Makes collecting messages using the Eris librarier way easier!
 
-![GitHub all releases](https://img.shields.io/github/downloads/GodyFromDiscord/days-until-christmas/total) ![GitHub forks](https://img.shields.io/github/forks/GodyFromDiscord/eris-message-collector?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/GodyFromDiscord/eris-message-collector?style=plastic) ![AUR maintainer](https://img.shields.io/aur/maintainer/eris-mesage-collector?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/GodyFromDiscord/days-until-christmas/total) ![GitHub forks](https://img.shields.io/github/forks/GodyFromDiscord/eris-message-collector?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/GodyFromDiscord/eris-message-collector?style=plastic)
 
 ## Installation
 > npm i eris-message-collector
