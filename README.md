@@ -1,3 +1,6 @@
+## This is outdated and no longer updated.
+
+
 # eris-message-collector | ![npm](https://img.shields.io/npm/v/eris-message-collector?style=for-the-badge)
 Makes collecting messages using the Eris librarier way easier!
 
